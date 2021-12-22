@@ -1,0 +1,97 @@
+body{
+
+}
+
+/* First page */
+#title {
+background-color: #FAEBD7;
+}
+
+.background-image{
+width: 100%;
+padding: 0;
+margin: 0;
+}
+/* Navbar */
+.navbar{
+  padding-bottom: 0 0 4.5rem;
+
+}
+
+.navbar-brand{
+  font-family: "Alike Angular";
+  font-size: 3rem;
+  font-weight: bold;
+
+}
+.nav-link{
+  font-size: 1rem;
+  font-family: "Montserrat";
+  color: white;
+  }
+.container-fluid{
+  margin-left:1%;
+  margin-right:1%;
+  margin: 0 0 0 5px;
+}
+
+/* Services */
+#services{
+  padding: 5% 7%;
+  margin-bottom:50px;
+
+
+}
+p{
+  text-align: center;
+  font-family: "Montserrat";
+  color: #A9A9A9;
+  font-size: 1rem;
+  line-height: 3;
+
+
+}
+.services-image{
+  width: 50%;
+}
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+/* Princing */
+#pricing{
+  text-align: center;
+  font-family: "Montserrat"''
+}
+.card-img-top{
+  height: 50%;
+  text-align: center;
+}
+#contact{
+  background-color: #FAEBD7;
+  font-family: "Montserrat";
+
+
+  }
+  .contac-text{
+    position: absolute;
+    text-align: center;
+    top: 2800px;
+    color: #fff;
+    left: 400px;
+
+  }
+  .contact-image{
+    width: 100%;
+    background:url(images/contactpage.png)
+
+    }
+  }
+.contact-h1{
+  font-size: 2rem;
+
+}
+.contact-h2{
+  font-size: 1rem;
+
+}
